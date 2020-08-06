@@ -20,7 +20,7 @@ When submitting a Java request the current context of the executable will be pac
 ```
 2. Have all dependences from maven (preferred) and/or saved in the project dir.
 3. Everything you want returned after the run is complete has to be saved to the the ./save_data dir
-4.  For compatibility: The  container this is run in is running openjdk-14 gpu accelerated with Nvidia cards using cuda-10.1 and cudnn-8.
+4.  For compatibility: The  container this is run in is running openjdk-14 gpu accelerated with Nvidia cards using cuda-10.1 and cudnn-7.
 
 ## Usage
 
